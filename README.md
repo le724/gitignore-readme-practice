@@ -19,9 +19,9 @@ Python版とJava版があります。
 1. ターミナル(またはコマンドプロンプト)でフォルダに移動
 1. 以下を実行
 
-```
-python janken.py
-```
+    ```
+    python janken.py
+    ```
 
 
 ### Java版：`Janken.java`
@@ -29,15 +29,15 @@ python janken.py
 1. ターミナル(またはコマンドプロンプト)でフォルダに移動
 1. コンパイル
 
-```
-javac Janken.java
-```
+    ```
+    javac Janken.java
+    ```
 
 1. 実行
 
-```
-java Janken
-```
+    ```
+    java Janken
+    ```
 
 ## 遊び方
 
